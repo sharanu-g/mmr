@@ -1,0 +1,15 @@
+Solved
+1.Splitting video of size 100MB working
+
+
+
+
+Pending bugs
+1.Playing video in database may find broken pipe error
+2.If cleint close Online view tab will show bug
+3.select image while generating report
+
+
+
+Debug
+Broken error catched in python code
